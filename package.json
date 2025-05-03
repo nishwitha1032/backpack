@@ -22,5 +22,10 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "scripts": {
+    "start": "bpk-scripts start",
+    "build": "bpk-scripts build",
+    "test": "bpk-scripts test"
+  }
 }
